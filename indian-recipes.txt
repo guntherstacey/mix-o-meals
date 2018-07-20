@@ -1,0 +1,35 @@
+mainDishes
+Chicken Tikka Masala
+Butter Chicken
+Chicken Biryani
+Chicken Vindaloo
+Indian Chicken Curry
+Tandoori Chicken
+Tomato Lamb Curry
+Samosas
+Indian Chicken Korma
+Chickpea and Potato Curry
+sideDishes
+Turmeric Lemon Rice
+Indian Fried Cabbage
+Indian Style Rice
+Indian Dal
+Spicy Indian Bombay Potatoes
+Palak Paneer
+Indian Creamed Spinach
+Kashmiri Mushrooms
+Fried Plantains
+Cucumber Raita 
+desserts
+Coconut Ladoo
+Gulab Jamun
+Indian Rice Pudding
+Mango Pudding
+Besan Burfi
+Kulfi
+Carrot Halwa
+Shankarpali
+Honey Cake
+Kheer
+extras
+Naan

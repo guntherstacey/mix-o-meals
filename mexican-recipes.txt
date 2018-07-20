@@ -1,0 +1,36 @@
+mainDishes
+Chicken Cream Cheese Taquitos
+Salsa Verde Chicken Enchiladas
+Chimichangas
+Tequila Lime Shrimp
+Smothered Green Chile Chicken Burritos
+Poblano Beef Stew
+Chicken Chile Relleno
+Carne con Chile Rojo
+Shredded Mexican Beef
+Oven Baked Tacos
+sideDishes
+Cilantro Lime Rice
+Mexican Rice
+Grilled Mexican Street Corn
+Refried Beans
+Mexican Cole Slaw
+Cheesy Jalapeno Corn
+Mexican Corn Cakes
+Cilantro Lime Quinoa
+Cheesy Green Chile Rice
+Mexican Pickled Carrots
+desserts
+Tres Leches
+Flan
+Sopapilla
+Mexican Wedding Cookies
+Caramel Apple Empanadas
+Mexican Chocolate Cake
+Arroz Con Leche
+Lemon Carlota
+Churros
+Mexican Pecan Candy
+extras
+Salsa
+Guacamole

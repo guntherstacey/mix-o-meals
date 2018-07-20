@@ -1,0 +1,40 @@
+mainDishes
+Tortellini Tomato Soup
+Stromboli
+Margherita Pizza
+Italian Sausage Rigatoni
+Fettuccine Alfredo
+Lasagna
+Spaghetti and Meatballs
+Chicken Piccata
+Pasta Carbonara
+Italian Pot Roast
+Manicotti
+Pasta e Fagioli
+Chicken Cacciatore
+sideDishes
+Caesar Salad
+Roasted Tomatoes
+Antipasto Salad
+Italian Roasted Potatoes
+Caprese Salad
+Sauteed Spinach
+Pesto Roasted Brussel Sprouts
+Tuscan Roasted Carrots
+Tuscan Braised Fennel
+Garlic Rosemary Baked Artichokes
+desserts
+Tiramisu
+Panna Cotta
+Cannolis
+Zeppoles
+Italian Lemon Drop Cookies
+Struffoli
+Italian Wedding Cookies
+Biscotti
+Italian Butter Cookies
+Blueberry Crostata
+extras
+Garlic Bread
+Marinara Sauce
+Tomato and Basil Bruschetta
